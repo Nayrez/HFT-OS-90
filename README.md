@@ -1,7 +1,4 @@
 # HFT-OS-90
-https://img.shields.io/badge/Version-0.4-blue
-https://img.shields.io/badge/Build-Passing-green
-https://img.shields.io/badge/License-MIT-yellow
 
 A modern operating system for x86 architecture, written from scratch in Assembly and C
 
